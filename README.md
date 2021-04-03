@@ -8,16 +8,14 @@ The purpose of this analysis is to look at the weather in Oahu for the months of
 
 ### The results of the analysis were as follows:
 
-![JuneTemps.png](resources/JuneTemps.png)       ![DecTemps.png](resources/DecTemps.png)
+![JuneTemps.PNG](resources/JuneTemps.PNG)       ![DecTemps.PNG](resources/DecTemps.PNG)
 
-### - point one
-### - point two
-### - point three
+### - The average weather in June is only 4 degrees warmer than the average weather in December
+### - The lowest temperature in December was 56 degrees, while the lowest temperature in June was 64 degrees
+### - The max tempurature in December is 83 degrees
 
+## Results:
 
-
-## Summary:
-
-### There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+### Based on the analysis performed, an ice cream shop would be a sustainable year-round business in Oahu. 
 
 
